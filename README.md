@@ -2,13 +2,9 @@
   <img src="https://raw.githubusercontent.com/aayu-sha/aayu-sha/main/aayusha%20Singh.png" alt="Banner">
 </div>
 
-<div style="text-align: center;">
-  <span style="display: inline-block; vertical-align: middle;">
-    <img src="waving-hand-joypixels.gif" width="50" height="50" style="margin-right: 10px;">
-  </span>
-  <span style="display: inline-block; vertical-align: middle;">
-    <h1 style="margin: 0; display: inline;">Hi, I’m Aayusha Singh</h1>
-  </span>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="waving-hand-joypixels.gif" width="50" height="50" style="margin-right: 10px;">
+  <h1 style="margin: 0;">Hi, I’m Aayusha Singh</h1>
 </div>
 
 <div align="center">
