@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;gap: 10px;">
   <a href="https://www.linkedin.com/in/aayusha-singh/" style="display: inline-block; padding: 0px 00px; background-color: #0077B5; color: #FFFFFF; font-size: 20px; border-radius: 5px; text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-Aayusha_Singh-blue?style=flat-square&logo=linkedin" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;"> 
   </a>
