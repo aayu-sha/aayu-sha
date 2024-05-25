@@ -40,8 +40,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aayusha-singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayusha_Singh-blue" alt="LinkedIn">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.linkedin.com/in/aayusha-singh/" style="display: inline-block; padding: 0px 00px; background-color: #0077B5; color: #FFFFFF; font-size: 20px; border-radius: 5px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Aayusha_Singh-blue?style=flat-square&logo=linkedin" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;"> 
+  </a>
+
+  <a href="mailto:singh.aayushaa@gmail.com" style="display: inline-block; padding: 00px 00px; background-color: #FFA500; color: #FFFFFF; font-size: 18px; border-radius: 5px; text-decoration: none;">
+    📧 Email Me
   </a>
 </div>
+
+
