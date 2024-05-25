@@ -11,8 +11,7 @@
   <img src="https://profile-counter.glitch.me/aayu-sha/count.svg" alt="Visitor Count">
 </div>
 
-<img src="flying-saucer.svg" alt="Flying Saucer" width="25" height="25">
- I’m interested in Astronomy, Astrophysics, Mathematics. Along with all these, I'm deeply interested in Python, Machine Learning, and Artificial Intelligence.
+<img src="flying-saucer.svg" alt="Flying Saucer" width="25" height="25">I’m interested in Astronomy, Astrophysics, Mathematics. Along with all these, I'm deeply interested in Python, Machine Learning, and Artificial Intelligence.
 
 🌱 I’m currently learning Mechanical Engineering at National Institute of Technology Srinagar.
 
