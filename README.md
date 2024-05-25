@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/aayu-sha/aayu-sha/main/aayusha%20Singh.png" alt="Banner">
 </div>
 
-<div align="center">
-👋 Hi, I’m @aayu-sha Aayusha Singh
+<div align="center"><img src="waving-hand-joypixels.gif" width="50" height="50"><h1>Hi, I’m Aayusha Singh</h1>
 </div>
 
 <div align="center">
