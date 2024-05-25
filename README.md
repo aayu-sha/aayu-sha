@@ -15,8 +15,6 @@
 
 🌱 I’m currently learning Mechanical Engineering at National Institute of Technology Srinagar.
 
-💞️ I’m looking to collaborate on Machine Learning and AI projects.
-
 📫 How to reach me: 
 
     Email: singh.aayushaa@gmail.com
