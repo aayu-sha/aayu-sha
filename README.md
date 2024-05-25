@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aayu-sha/aayu-sha/main/aayusha%20Singh.png" alt="Banner">
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; text-align: center; width: 100%;">
   <img src="waving-hand-joypixels.gif" width="50" height="50" style="margin-right: 10px;">
   <h1 style="margin: 0;">Hi, I’m Aayusha Singh</h1>
 </div>
