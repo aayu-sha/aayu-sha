@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aayu-sha/aayu-sha/main/aayusha%20Singh.png" alt="Banner">
-</div>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <h1 style="margin: 0;"> 👋 Hi, I’m Aayusha Singh</h1>
