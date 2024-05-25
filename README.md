@@ -20,6 +20,8 @@
 
 👽 Pronouns: She/Her
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayu-sha&theme=tokyonight)
+
 ### Tech Stack
 
 - **Programming Languages:** Python, JavaScript, HTML, CSS, PHP, Java, C++, C
