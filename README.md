@@ -11,7 +11,7 @@
   <img src="https://profile-counter.glitch.me/aayu-sha/count.svg" alt="Visitor Count">
 </div>
 
-👀 I’m interested in Astronomy, Astrophysics, Mathematics. Along with all these, I'm deeply interested in Python, Machine Learning, and Artificial Intelligence.
+🛸 I’m interested in Astronomy, Astrophysics, Mathematics. Along with all these, I'm deeply interested in Python, Machine Learning, and Artificial Intelligence.
 
 🌱 I’m currently learning Mechanical Engineering at National Institute of Technology Srinagar.
 
@@ -21,7 +21,7 @@
 
     LinkedIn: aayusha-singh
 
-😄 Pronouns: She/Her
+👽 Pronouns: She/Her
 
 ### Tech Stack
 
