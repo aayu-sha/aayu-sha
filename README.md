@@ -1,6 +1,6 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <h1 style="margin: 0;"> <img src="waving-hand-joypixels.gif" width=50px height=50px >👋 Hi, I’m Aayusha Singh</h1>
+  <h1 style="margin: 0;"> <img src="waving-hand-joypixels.gif" width=50px height=50px > Hi, I’m Aayusha Singh</h1>
 </div>
 
 <div align="center">
