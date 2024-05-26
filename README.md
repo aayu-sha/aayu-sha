@@ -1,6 +1,6 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <h1 style="margin: 0;"> 👋 Hi, I’m Aayusha Singh</h1>
+  <h1 style="margin: 0;"> <img src="waving-hand-joypixels.gif" width=50px height=50px >👋 Hi, I’m Aayusha Singh</h1>
 </div>
 
 <div align="center">
@@ -39,11 +39,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center;gap: 10px;">
-  <a href="https://www.linkedin.com/in/aayusha-singh/" style="display: inline-block; padding: 0px 00px; background-color: #0077B5; color: #FFFFFF; font-size: 20px; border-radius: 5px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayusha_Singh-blue?style=flat-square&logo=linkedin" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;"> 
+<div id="badges" style="display: flex; justify-content: center; align-items: center;gap: 10px;>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
 
   <a href="mailto:singh.aayushaa@gmail.com" style="display: inline-block; padding: 00px 00px; background-color: #FFA500; color: #FFFFFF; font-size: 18px; border-radius: 5px; text-decoration: none;">
     📧 Email Me
