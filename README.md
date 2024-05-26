@@ -1,3 +1,8 @@
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<img src="acaf75bce8c4f45d62e450580da3d1363d0f4df090e77b970912d87e2b4f9f15.0.png" height="500px" width="500px">
+
+</div>
+
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <h1 style="margin: 0;"> <img src="waving-hand-joypixels.gif" width=50px height=50px > Hi, I’m Aayusha Singh</h1>
@@ -8,7 +13,7 @@
   <img src="https://profile-counter.glitch.me/aayu-sha/count.svg" alt="Visitor Count">
 </div>
 
-<img src="flying-saucer.svg" alt="Flying Saucer" width="25" height="25">I’m interested in Astronomy, Astrophysics, Mathematics. Along with all these, I'm deeply interested in Python, Machine Learning, and Artificial Intelligence.
+<img src="flying-saucer.svg" alt="Flying Saucer" width="25" height="25"> I’m interested in Astronomy, Astrophysics, Mathematics. Along with all these, I'm deeply interested in Python, Machine Learning, and Artificial Intelligence.
 
 🌱 I’m currently learning Mechanical Engineering at National Institute of Technology Srinagar.
 
