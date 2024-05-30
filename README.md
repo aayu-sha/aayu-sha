@@ -39,7 +39,7 @@
 
 - **Web Development:** HTML, CSS, Bootstrap, jQuery
 
-<div align="center">
+<div align="center" style="justify-content: center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 <div id="badges" style="display: flex; justify-content: center; align-items: center;gap: 10px;>
