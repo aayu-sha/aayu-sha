@@ -42,6 +42,7 @@
 <div align="center" style="justify-content: center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
+
 <div id="badges" style="display: flex; justify-content: center; align-items: center;gap: 10px;>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
