@@ -33,12 +33,46 @@ class AstrophysicistProfile:
             "🛸 Startup": "Founder of Magnetars - Astrophysics Venture"
         }
 ```
+## 📊 Stellar Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&ring_color=58A6FF"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu-sha&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Analyzing+Code+Patterns+Across+the+Galaxy...;Statistical+Data+Processing+Complete+✨" alt="Stats Loading"/>
 </div>
 
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img width="55%" src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&ring_color=58A6FF&custom_title=🌌%20Cosmic%20Code%20Analytics"/>
+      </td>
+      <td align="center" style="border: none;">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu-sha&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&custom_title=🚀%20Language%20Constellation"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐%20Code%20Quality-Stellar%20Grade%20A+-success?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🔬%20Research%20Impact-High%20Citation%20Index-informational?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🌌%20Innovation%20Level-Cosmic%20Scale-blueviolet?style=for-the-badge&logo=spacex&logoColor=white&labelColor=0D1117"/>
+</div>
+
+<details>
+<summary>🔍 <b>Expand for Detailed Performance Analysis</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true"/>
+</div>
+
+```yaml
+Performance Metrics:
+  📈 Coding Velocity: "Relativistic Speed"
+  🎯 Problem Solving: "Black Hole Precision"
+  🔬 Research Output: "Supernova Intensity"
+  🌟 Innovation Index: "Cosmic Scale"
+```
 ## 🌟 Research Constellation
 
 <div align="center">
