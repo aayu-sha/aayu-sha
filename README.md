@@ -15,7 +15,7 @@ class AstrophysicistProfile:
     def __init__(self):
         self.name = "Aayusha Singh"
         self.current_mission = "B.Tech Mechanical Engineering @ NIT Srinagar"
-        self.parallel_universe = "B.Sc Mathematics @ IGNOU"
+        self.parallel_universe = "B.Sc Mathematics"
         self.research_stations = ["IISc Bangalore", "Empire Space Texas"]
         self.specializations = [
             "Stellar Evolution & Supernovae",
