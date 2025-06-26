@@ -10,7 +10,7 @@
 
 ## 🎭 The Person Behind the Code
 
-> *"I'm not just studying the universe—I'm teaching machines to understand it too."*
+> *"I'm not just studying the universe; I'm teaching machines to understand it too."*
 
 **🌟 Current Status**: Converting caffeine into groundbreaking astrophysics research while debugging the mysteries of deep space through AI
 
