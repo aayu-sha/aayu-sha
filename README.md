@@ -1,8 +1,8 @@
 # 🌌 Aayusha's Digital Observatory
-*Where Astrophysics and Mathematics Meets Machine Learning*
+*Where Quantum Mechanics Meets Machine Learning*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=AAYUSHA%20SINGH&fontSize=48&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Astrophysics%20%7C%20Artificial%20Intelligence%20%7C%20Computational%20Scientist&descAlignY=55&descSize=18&descColor=7D8590"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=AAYUSHA%20SINGH&fontSize=48&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Astrophysicist%20%7C%20AI%20Researcher%20%7C%20Computational%20Scientist&descAlignY=55&descSize=18&descColor=7D8590"/>
 </div>
 
 <div align="center">
@@ -19,17 +19,82 @@
 
 ---
 
-## 🛸 **System Configuration**
-
+## 🎯 **Quick Navigation**
 <div align="center">
 
-```ascii
-    🌌 COSMIC RESEARCHER v2025.1.0 🌌
-   ╭─────────────────────────────────────╮
-   │    Status: Online & Researching     │
-   │    Mode: Interdisciplinary Science  │
-   │    Current Focus: Universe.decode() │
-   ╰─────────────────────────────────────╯
+[🚀 About Me](#-system-configuration) • [📊 Stats](#-mission-control-dashboard) • [🔬 Research](#-active-research-missions) • [💼 Experience](#-professional-journey) • [🌟 Achievements](#-cosmic-achievements) • [🤝 Connect](#-lets-connect-across-dimensions)
+
+</div>
+
+---
+
+## 🛸 **SYSTEM CONFIGURATION**
+
+<div align="LEFT">
+
+```bash
+aayusha@cosmic-research:~$ systemctl status quantum-terminal
+● quantum-terminal.service - Quantum Research Terminal v2.0.25
+   Loaded: loaded (/etc/systemd/system/quantum-terminal.service; enabled)
+   Active: active (running) since 2004-07-23 11:45:00 IST; 20y 5m ago
+   Main PID: 2023 (cosmic-researcher)
+   
+aayusha@cosmic-research:~$ cat /proc/researcher/status
+Name:                   Aayusha Singh
+Classification:         Interdisciplinary Scientist
+Clearance Level:        COSMIC_RESEARCHER
+Birth Timestamp:        2004-07-23 
+Runtime:                20.85 years [CALCULATING...]
+Status:                 ACTIVE | OPERATIONAL | RESEARCHING
+Location:               Mumbai, Maharashtra, India
+Mission:                DECODE_UNIVERSE() && ADVANCE_AI()
+Core Processes:         [ASTROPHYSICS, AI_RESEARCH, MATHEMATICS]
+
+aayusha@cosmic-research:~$ ps aux | grep research
+aayusha    1001  0.0   0.1   ∞      847M  ?  S    11:45   0:00 curiosity
+aayusha    1002  2.5   15.2 2048M   1.5G  ?  R    11:45 847:32 coffee_dependency
+aayusha    1003  45.2  25.8 4096M   2.8G  ?  R    11:45 15432:18 astrophysics_engine
+aayusha    1004  38.7  22.1 3072M   2.1G  ?  R    11:45 12847:45 ai_research_daemon
+aayusha    1005  25.8  18.4 2560M   1.8G  ?  R    11:45 9856:23 mathematics_core 
+aayusha    1006  15.2  12.7 1536M   1.2G  ?  R    11:45 6421:12 engineering_module
+
+aayusha@cosmic-research:~$ netstat -tuln | grep COSMIC
+tcp    0    0 0.0.0.0:2023    0.0.0.0:*    LISTEN    # COSMIC_RESEARCH_GRID
+tcp    0    0 0.0.0.0:8080    0.0.0.0:*    LISTEN    # UNIVERSE_DATABASE
+tcp    0    0 0.0.0.0:9090    0.0.0.0:*    LISTEN    # DISCOVERY_PIPELINE
+
+aayusha@cosmic-research:~$ df -h /dev/brain
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/curiosity   ∞     95%   ∞    95% /home/aayusha/research
+/dev/knowledge  2.5T  1.8T  700G  72% /home/aayusha/education
+/dev/projects   1.0T  850G  150G  85% /home/aayusha/active_work
+
+aayusha@cosmic-research:~$ uptime
+ 02:47:23 up 20 years, 5 months, 3 days, 15:02, 4 research threads
+ load average: 4.23, 3.87, 3.91
+
+aayusha@cosmic-research:~$ echo $PATH
+/usr/local/astrophysics/bin:/usr/local/ai/bin:/usr/local/mathematics/bin:/usr/local/engineering/bin:/usr/bin:/bin
+
+aayusha@cosmic-research:~$ crontab -l
+# Research Pipeline Automation
+0  2 * * * /usr/local/bin/process-gravitational-waves
+30 3 * * * /usr/local/bin/train-ai-models
+0  9 * * * /usr/local/bin/analyze-cosmic-data
+0 22 * * * /usr/local/bin/backup-research-data
+30 * * * * /usr/local/bin/check-coffee-levels
+
+aayusha@cosmic-research:~$ tail -f /var/log/discovery.log
+[2025-06-26 02:47:23] INFO: Gravitational wave analysis: 70% complete
+[2025-06-26 02:47:24] INFO: AI medical imaging: 85% complete  
+[2025-06-26 02:47:25] INFO: Dark matter research: 60% complete
+[2025-06-26 02:47:26] INFO: Magnetars startup: Development phase active
+[2025-06-26 02:47:27] INFO: Coffee dependency: CRITICAL - refill required
+[2025-06-26 02:47:28] INFO: Papers in preparation: 3 drafts pending
+[2025-06-26 02:47:29] INFO: Conference submissions: 2 accepted
+[2025-06-26 02:47:30] INFO: Universe debugging: Progress... still working on it
+
+aayusha@cosmic-research:~$ 
 ```
 
 </div>
@@ -40,7 +105,7 @@
 <td width="50%" valign="top">
 
 ```yaml
-# Personal Config
+# ~/.config/researcher/profile.yml
 name: "Aayusha Singh"
 version: "2025.1.0"
 build: "cosmic-researcher-ultimate"
@@ -167,7 +232,9 @@ focus_areas:
 ### **🌟 Mission Alpha: The Magnetars Project**
 <div align="center">
 
-```
+```bash
+aayusha@cosmic-research:~$ cat /opt/magnetars/mission_brief.txt
+
 ╭──────────────────────────────────────────────────────────────╮
 │  🚀 STARTUP MISSION: Magnetars                              │
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
@@ -187,7 +254,9 @@ focus_areas:
 <td width="33%" align="center">
 
 ### **🌊 Gravitational Wave Analysis**
-```
+```bash
+aayusha@cosmic-research:~$ ./research_status.sh gw
+
 🔍 Research Focus
 ├── Fuzzball Hypothesis Testing
 ├── LIGO Data Processing
@@ -202,7 +271,9 @@ focus_areas:
 <td width="33%" align="center">
 
 ### **🤖 AI-Enhanced Medical Imaging**
-```
+```bash
+aayusha@cosmic-research:~$ ./research_status.sh ai
+
 🏥 Project Scope
 ├── ALM-CNN Model Development
 ├── Retina Enhancement Algorithms
@@ -217,7 +288,9 @@ focus_areas:
 <td width="33%" align="center">
 
 ### **🌌 Dark Matter Research**
-```
+```bash
+aayusha@cosmic-research:~$ ./research_status.sh dm
+
 🌠 Investigation Areas
 ├── Galaxy Formation Modeling
 ├── Dark Sector Interactions  
@@ -391,7 +464,9 @@ focus_areas:
 </table>
 
 ### **🎯 Research Impact Metrics**
-```
+```bash
+aayusha@cosmic-research:~$ ./impact_metrics.sh
+
 📊 Publication Impact Dashboard
 ├── 📑 Total Publications: 10
 ├── 📈 Citation Count: 25+
@@ -453,7 +528,8 @@ Late-night coding sessions
 
 <div align="center">
 
-```
+```bash
+aayusha@cosmic-research:~$ echo "Life Equation: Curiosity + Coffee + Code = Cosmic Discoveries"
 🌌 Life Equation: Curiosity + Coffee + Code = Cosmic Discoveries
 ```
 
@@ -465,10 +541,13 @@ Late-night coding sessions
 
 <div align="center">
 
-**📍 Current Location:** Srinagar, Jammu & Kashmir, India  
-**🕐 Timezone:** IST (GMT+5:30)  
-**🧠 Current State:** Oscillating between curiosity and cosmic confusion  
-**💻 Availability:** Usually debugging the universe at 2 AM  
+```bash
+aayusha@cosmic-research:~$ whoami
+📍 Current Location: Srinagar, Jammu & Kashmir, India
+🕐 Timezone: IST (GMT+5:30)
+🧠 Current State: Oscillating between curiosity and cosmic confusion
+💻 Availability: Usually debugging the universe at 2 AM
+```
 
 ### **🌐 Digital Presence**
 
@@ -529,16 +608,16 @@ Late-night coding sessions
 
 ### **🎯 Current Collaboration Interests**
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  🔍 Seeking collaborators for:                         │
-│  ├── 🌊 Gravitational wave data analysis               │
-│  ├── 🤖 AI-enhanced astronomical imaging                │
-│  ├── 🌌 Dark matter simulation projects                 │
-│  ├── 🚀 Space mission planning algorithms              │
-│  ├── 📊 Bayesian inference in astrophysics            │
-│  └── 🏢 Deep tech startup opportunities               │
-└─────────────────────────────────────────────────────────┘
+```bash
+aayusha@cosmic-research:~$ cat /home/aayusha/collaboration_interests.txt
+
+🔍 Seeking collaborators for:
+├── 🌊 Gravitational wave data analysis
+├── 🤖 AI-enhanced astronomical imaging
+├── 🌌 Dark matter simulation projects
+├── 🚀 Space mission planning algorithms
+├── 📊 Bayesian inference in astrophysics
+└── 🏢 Deep tech startup opportunities
 ```
 
 </div>
@@ -555,12 +634,16 @@ Late-night coding sessions
 <details>
 <summary><b>Click for a random fun fact about me!</b></summary>
 
-- 🔭 I've spent more hours looking at telescope data than actually looking through telescopes
-- ☕ My code-to-coffee ratio is approximately 50 lines per cup
-- 🌌 I can explain black holes better than I can explain why I chose mechanical engineering
-- 🤖 I taught an AI to classify cosmic rays, but it still can't make good coffee
-- 📚 My "light reading" includes papers on quantum gravity
-- 🌙 I've named my telescopes after famous physicists (yes, including Einstein)
+```bash
+aayusha@cosmic-research:~$ ./random_fun_fact.sh
+
+🔭 I've spent more hours looking at telescope data than actually looking through telescopes
+☕ My code-to-coffee ratio is approximately 50 lines per cup
+🌌 I can explain black holes better than I can explain why I chose mechanical engineering
+🤖 I taught an AI to classify cosmic rays, but it still can't make good coffee
+📚 My "light reading" includes papers on quantum gravity
+🌙 I've named my telescopes after famous physicists (yes, including Einstein)
+```
 
 </details>
 </div>
