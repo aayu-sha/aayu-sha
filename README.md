@@ -103,6 +103,7 @@ class MyJourney:
 - **Python** - My go-to for research and ML projects
 - **TensorFlow/PyTorch** - For deep learning experiments
 - **Scientific Python** - NumPy, SciPy, Matplotlib, AstroPy
+- **JavaScript/React** - For web applications
 
 **Currently learning:**
 - Advanced gravitational wave analysis
