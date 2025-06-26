@@ -1,7 +1,15 @@
-# 🌌 Aayusha Singh
+# 🌌 Aayusha's Digital Space
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Astrophysicist+%2B+AI+Researcher;Debugging+the+universe%2C+one+black+hole+at+a+time;Teaching+machines+to+understand+the+cosmos;NIT+Srinagar+%7C+Mechanical+Engineering" alt="About me"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Observatory&fontSize=35&fontColor=white&animation=fadeIn&fontAlignY=30&desc=Where%20Stars%20Meet%20Algorithms&descAlignY=50&descSize=16"/>
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Astrophysicist+%2B+AI+Researcher+%2B+Mathematician;Debugging+the+universe%2C+one+black+hole+at+a+time;Teaching+machines+to+understand+the+cosmos;NIT+Srinagar+%7C+Mechanical+Engineering+%7C+B.Sc+Mathematics" alt="About me"/>
 </div>
 
 <div align="center">
@@ -10,31 +18,85 @@
 
 ---
 
-## 🚀 The Universe Through Code
+## 🚀 System Information
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                            SYSTEM CONFIGURATION FILE                            │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔭 **What I Actually Do**
-
-I'm an astrophysicist who speaks Python fluently and occasionally argues with neural networks about whether those fuzzy blobs in space images are important (spoiler: they are).
-
-Currently merging **mechanical engineering** with **cosmic mysteries** at NIT Srinagar, while trying to convince AI models that black holes are more than just very dark circles.
+```json
+{
+  "name": "Aayusha Singh",
+  "version": "2025.1.0",
+  "build": "cosmic-researcher",
+  "type": "Interdisciplinary Scientist",
+  
+  "education": {
+    "primary": "B.Tech Mechanical Engineering",
+    "secondary": "B.Sc Mathematics",
+    "institution": "NIT Srinagar + IGNOU",
+    "graduation": "2026-2027"
+  },
+  
+  "expertise": [
+    "Astrophysics & Cosmology",
+    "Machine Learning & AI",
+    "Computational Research",
+    "Mathematical Modeling"
+  ],
+  
+  "current_research": {
+    "fuzzball_hypothesis": "Testing with gravitational waves",
+    "dark_matter_interactions": "Galaxy formation studies",
+    "ai_enhanced_imaging": "Retina & cosmic image processing",
+    "stellar_dynamics": "Bayesian inference models"
+  }
+}
+```
 
 </td>
 <td width="50%">
 
-### 🌠 **Current Mission Status**
+```yaml
+# Research Profile
+affiliations:
+  - Indian Institute of Science (IISc)
+  - Empire Space, Texas USA
+  - Space Generation Advisory Council
+  - International Astronomical Search Collaboration
 
-```python
-aayusha = {
-    "role": "Cosmic Detective",
-    "specialties": ["Gravitational Waves", "Black Holes", "AI"],
-    "current_quest": "Testing String Theory",
-    "side_mission": "Building Magnetars Startup",
-    "coffee_dependency": "Critical"
-}
+publications:
+  peer_reviewed: 5
+  conference_accepted: 5
+  in_preparation: 3
+  
+achievements:
+  asteroids_discovered: 3
+  conferences_presented: 2
+  hackathons_won: 1
+  
+specialties:
+  - Gravitational Wave Analysis
+  - Black Hole Physics
+  - Neural Networks for Astrophysics
+  - Bayesian Statistical Methods
+  - Computational Fluid Dynamics
+  
+current_projects:
+  - "Magnetars Startup"
+  - "Fuzzball Testing via GW"
+  - "AI-Enhanced Medical Imaging"
+  - "Cosmic Ray Classification"
 ```
 
 </td>
@@ -84,59 +146,100 @@ aayusha = {
 
 ## 🔬 **Scientific Discoveries**
 
-### 📑 **Published Research**
+### 📑 **Research Portfolio**
+
+<div align="center">
+
+| **📊 Publication Stats** | **🎯 Research Focus** |
+|:---:|:---:|
+| **5** Published Papers | **Dark Matter Interactions** |
+| **5** Conference Accepted | **Black Hole Physics** |
+| **3** In Preparation | **Gravitational Wave Analysis** |
+| **2** Conference Presentations | **AI in Astrophysics** |
+
+</div>
+
+#### **🌟 Notable Publications**
+
+**🌌 [Influence of Interactions between Dark Energy and Dark Matter on Galaxy Formation](link)** (2024)  
+*IJASEAT* - Exploring how dark sector interactions shape galactic evolution
+
+**💫 [From Stellar Birth to Violent Death: A Review on Supernovae](link)** (2024)  
+*IJASEAT* - Comprehensive analysis of stellar lifecycle and explosive endpoints
+
+**🚀 [Relativistic Effects on Spacecraft in Interstellar Travel](link)** (2025)  
+*GLEX 2025* - Time dilation and energy considerations for deep space missions
+
+#### **🔬 Accepted Research (2025)**
+
+- **Testing Fuzzball Hypothesis for Black Holes** - *EAS Annual Meeting, Ireland*
+- **Bayesian Hierarchical Inference of Star Cluster Parameters** - *Bridging Scales, Italy*  
+- **Extreme Astrophysical Emissions in Pulsars & Magnetars** - *ICRC, CERN*
+- **Cosmic Ray Classification using ML/DL** - *RAP, Greece*
+- **Galactic Bar Formation & Angular Momentum Transfer** - *DDA Meeting, Atlanta*
+
+---
+
+## 🛸 **Active Missions**
+
+<div align="center">
+
+### **🌟 The Magnetars Project**
+```
+╭─────────────────────────────────────────────────────────╮
+│  🚀 STARTUP MISSION: Magnetars                         │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│  🎯 Objective: Transform astrophysics research tools   │
+│  🌐 Vision: Democratize cosmic data analysis           │
+│  📊 Status: In Development                             │
+│  🔬 Focus: AI-driven space science solutions          │
+╰─────────────────────────────────────────────────────────╯
+```
+
+</div>
+
 <table>
 <tr>
-<td>
+<td width="33%">
 
-**🌌 Dark Matter & Galaxy Formation**  
-*Investigating the cosmic dance between dark matter and galactic evolution*
-
-**🕳️ Black Hole Fuzzballs**  
-*Using gravitational waves to test string theory predictions*
-
-**⭐ Star Cluster Analysis**  
-*Bayesian machine learning for stellar population studies*
+### **🤖 AI-Enhanced Medical Imaging**
+- **ALM-CNN Model** for retina enhancement
+- **Deep learning** denoising techniques
+- **Variational Autoencoders** implementation
+- **Diffusion models** for image quality
 
 </td>
-<td>
+<td width="33%">
 
-**💥 Extreme Cosmic Emissions**  
-*Analyzing the universe's most energetic phenomena*
+### **🌊 Gravitational Wave Research**
+- **Fuzzball hypothesis** testing
+- **LIGO data** analysis methods
+- **String theory** validation
+- **Bayesian inference** applications
 
-**🔍 Gravitational Wave Patterns**  
-*Novel approaches to LIGO data analysis*
+</td>
+<td width="33%">
 
-**📈 Status:** 5 Published • 5 Accepted
+### **🌿 Plant Disease Classification**
+- **BPLD Dataset** analysis
+- **CNN architectures** comparison
+- **Dense Residual Paths** with attention
+- **Hybrid model** development
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛸 **Project Constellation**
+### **💼 Professional Experience**
 
 <div align="center">
 
-### **🌟 The Magnetars Project**
-*Transforming astrophysics research into accessible tools*
-
-```
-┌─────────────────────────────────────────────────┐
-│  🚀 Current Mission: Building the future of     │
-│     astrophysics research tools                │
-│                                                 │
-│  🎯 Goal: Make cosmic data analysis accessible │
-│     to researchers worldwide                    │
-└─────────────────────────────────────────────────┘
-```
-
-### **🔬 AI-Enhanced Retina Imaging**
-*Teaching neural networks to see patterns in medical images*
-
-### **🌊 Gravitational Wave Analysis**
-*Developing new methods for detecting cosmic ripples*
+| **Organization** | **Role** | **Duration** | **Focus** |
+|:---:|:---:|:---:|:---:|
+| **Indian Institute of Science (IISc)** | Research Intern | 2023 - Present | Astrophysics Research |
+| **Empire Space, Texas** | Research Analyst | 2024 - Present | Space Science Analysis |
+| **Magnetars** | Founder | 2023 - Present | Startup Development |
+| **Upwork** | Freelancer | 2024 - Present | ML/AI Projects |
 
 </div>
 
