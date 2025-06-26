@@ -32,69 +32,127 @@
 
 <div align="LEFT">
 
+## 🖥️ System Status
+
 ```bash
 aayusha@cosmic-research:~$ systemctl status quantum-terminal
+```
+
+```yaml
 ● astrophysics-terminal.service - Astrophysics Research Terminal v2.0.25
    Loaded: loaded (/etc/systemd/system/quantum-terminal.service; enabled)
    Active: active (running) since 2004-07-23 11:45:00 IST; 20y 5m ago
    Main PID: 2023 (cosmic-researcher)
-   
+```
+
+---
+
+```bash
 aayusha@cosmic-research:~$ cat /proc/researcher/status
-Name:                   Aayusha Singh
-Classification:         Interdisciplinary Scientist
-Clearance Level:        COSMIC_RESEARCHER
-Birth Timestamp:        2004-07-23 
-Runtime:                20.85 years [CALCULATING...]
-Status:                 ACTIVE | OPERATIONAL | RESEARCHING
-Location:               Mumbai, Maharashtra, India
-Mission:                DECODE_UNIVERSE() && ADVANCE_AI()
-Core Processes:         [ASTROPHYSICS, AI_RESEARCH, MATHEMATICS]
+```
 
+```yaml
+Name:              Aayusha Singh
+Classification:    Interdisciplinary Scientist
+Clearance Level:   COSMIC_RESEARCHER
+Birth Timestamp:   2004-07-23
+Runtime:           20.85 years [CALCULATING...]
+Status:            ACTIVE | OPERATIONAL | RESEARCHING
+Location:          Mumbai, Maharashtra, India
+Mission:           DECODE_UNIVERSE() && ADVANCE_AI()
+Core Processes:    [ASTROPHYSICS, AI_RESEARCH, MATHEMATICS]
+```
+
+---
+
+```bash
 aayusha@cosmic-research:~$ ps aux | grep research
-aayusha    1001  0.0   0.1   ∞      847M  ?  S    11:45   0:00 curiosity
-aayusha    1002  2.5   15.2 2048M   1.5G  ?  R    11:45 847:32 coffee_dependency
-aayusha    1003  45.2  25.8 4096M   2.8G  ?  R    11:45 15432:18 astrophysics_engine
-aayusha    1004  38.7  22.1 3072M   2.1G  ?  R    11:45 12847:45 ai_research_daemon
-aayusha    1005  25.8  18.4 2560M   1.8G  ?  R    11:45 9856:23 mathematics_core 
-aayusha    1006  15.2  12.7 1536M   1.2G  ?  R    11:45 6421:12 engineering_module
+```
 
+| USER | PID | %CPU | %MEM | VSZ | RSS | TTY | STAT | START | TIME | COMMAND |
+|------|-----|------|------|-----|-----|-----|------|-------|------|---------|
+| aayusha | 1001 | 0.0 | 0.1 | ∞ | 847M | ? | S | 11:45 | 0:00 | `curiosity` |
+| aayusha | 1002 | 2.5 | 15.2 | 2048M | 1.5G | ? | R | 11:45 | 847:32 | `coffee_dependency` ☕ |
+| aayusha | 1003 | 45.2 | 25.8 | 4096M | 2.8G | ? | R | 11:45 | 15432:18 | `astrophysics_engine` 🌌 |
+| aayusha | 1004 | 38.7 | 22.1 | 3072M | 2.1G | ? | R | 11:45 | 12847:45 | `ai_research_daemon` 🤖 |
+| aayusha | 1005 | 25.8 | 18.4 | 2560M | 1.8G | ? | R | 11:45 | 9856:23 | `mathematics_core` 📐 |
+| aayusha | 1006 | 15.2 | 12.7 | 1536M | 1.2G | ? | R | 11:45 | 6421:12 | `engineering_module` ⚙️ |
+
+---
+
+```bash
 aayusha@cosmic-research:~$ netstat -tuln | grep COSMIC
-tcp    0    0 0.0.0.0:2023    0.0.0.0:*    LISTEN    # COSMIC_RESEARCH_GRID
-tcp    0    0 0.0.0.0:8080    0.0.0.0:*    LISTEN    # UNIVERSE_DATABASE
-tcp    0    0 0.0.0.0:9090    0.0.0.0:*    LISTEN    # DISCOVERY_PIPELINE
+```
 
+```
+tcp  0  0  0.0.0.0:2023   0.0.0.0:*   LISTEN    # COSMIC_RESEARCH_GRID
+tcp  0  0  0.0.0.0:8080   0.0.0.0:*   LISTEN    # UNIVERSE_DATABASE  
+tcp  0  0  0.0.0.0:9090   0.0.0.0:*   LISTEN    # DISCOVERY_PIPELINE
+```
+
+---
+
+```bash
 aayusha@cosmic-research:~$ df -h /dev/brain
-Filesystem      Size  Used Avail Use% Mounted on
-/dev/curiosity   ∞     95%   ∞    95% /home/aayusha/research
-/dev/knowledge  2.5T  1.8T  700G  72% /home/aayusha/education
-/dev/projects   1.0T  850G  150G  85% /home/aayusha/active_work
+```
 
+| Filesystem | Size | Used | Avail | Use% | Mounted on |
+|------------|------|------|-------|------|------------|
+| /dev/curiosity | ∞ | 95% | ∞ | 95% | /home/aayusha/research |
+| /dev/knowledge | 2.5T | 1.8T | 700G | 72% | /home/aayusha/education |
+| /dev/projects | 1.0T | 850G | 150G | 85% | /home/aayusha/active_work |
+
+---
+
+```bash
 aayusha@cosmic-research:~$ uptime
- 02:47:23 up 20 years, 5 months, 3 days, 15:02, 4 research threads
- load average: 4.23, 3.87, 3.91
+```
 
+```
+02:47:23 up 20 years, 5 months, 3 days, 15:02, 4 research threads
+load average: 4.23, 3.87, 3.91
+```
+
+---
+
+```bash
 aayusha@cosmic-research:~$ echo $PATH
+```
+
+```bash
 /usr/local/astrophysics/bin:/usr/local/ai/bin:/usr/local/mathematics/bin:/usr/local/engineering/bin:/usr/bin:/bin
+```
 
+---
+
+```bash
 aayusha@cosmic-research:~$ crontab -l
-# Research Pipeline Automation
-0  2 * * * /usr/local/bin/process-gravitational-waves
-30 3 * * * /usr/local/bin/train-ai-models
-0  9 * * * /usr/local/bin/analyze-cosmic-data
-0 22 * * * /usr/local/bin/backup-research-data
-30 * * * * /usr/local/bin/check-coffee-levels
+```
 
+```bash
+# Research Pipeline Automation
+0  2  *  *  *  /usr/local/bin/process-gravitational-waves
+30 3  *  *  *  /usr/local/bin/train-ai-models  
+0  9  *  *  *  /usr/local/bin/analyze-cosmic-data
+0  22 *  *  *  /usr/local/bin/backup-research-data
+30 *  *  *  *  /usr/local/bin/check-coffee-levels
+```
+
+---
+
+```bash
 aayusha@cosmic-research:~$ tail -f /var/log/discovery.log
+```
+
+```log
 [2025-06-26 02:47:23] INFO: Gravitational wave analysis: 70% complete
 [2025-06-26 02:47:24] INFO: AI medical imaging: 85% complete  
 [2025-06-26 02:47:25] INFO: Dark matter research: 60% complete
 [2025-06-26 02:47:26] INFO: Magnetars startup: Development phase active
-[2025-06-26 02:47:27] INFO: Coffee dependency: CRITICAL - refill required
+[2025-06-26 02:47:27] ERROR: Coffee dependency: CRITICAL - refill required ☕
 [2025-06-26 02:47:28] INFO: Papers in preparation: 3 drafts pending
 [2025-06-26 02:47:29] INFO: Conference submissions: 2 accepted
-[2025-06-26 02:47:30] INFO: Universe debugging: Progress... still working on it
-
-aayusha@cosmic-research:~$ 
+[2025-06-26 02:47:30] WARN: Universe debugging: Progress... still working on it
 ```
 
 </div>
