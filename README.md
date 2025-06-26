@@ -2,24 +2,16 @@
 *Where Astrophysics and Mathematics Meets Machine Learning*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Observatory&fontSize=35&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Decoding%20the%20Universe%20Through%20Algorithms&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=AAYUSHA%20SINGH&fontSize=48&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Astrophysicist%20%7C%20AI%20Researcher%20%7C%20Computational%20Scientist&descAlignY=55&descSize=18&descColor=7D8590"/>
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Terminal animation"/>
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🔬+Astrophysicist+%2B+AI+Researcher+%2B+Mathematician;🌌+Teaching+machines+to+understand+black+holes;🚀+Building+the+future+of+space+technology;💫+NIT+Srinagar+%7C+Mechanical+Engineering+%7C+B.Sc+Mathematics;🌟+Debugging+the+universe%2C+one+algorithm+at+a+time" alt="Dynamic intro"/>
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" alt="Cosmic animation"/>
-</div>
-
----
-
-## 🎯 **Quick Navigation**
-<div align="center">
-
-[🚀 About Me](#-system-configuration) • [📊 Stats](#-mission-control-dashboard) • [🔬 Research](#-active-research-missions) • [💼 Experience](#-professional-journey) • [🌟 Achievements](#-cosmic-achievements) • [🤝 Connect](#-lets-connect-across-dimensions)
-
 </div>
 
 ---
