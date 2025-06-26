@@ -58,9 +58,7 @@ class AstrophysicistProfile:
   <img src="https://img.shields.io/badge/🌌%20Innovation%20Level-Cosmic%20Scale-blueviolet?style=for-the-badge&logo=spacex&logoColor=white&labelColor=0D1117"/>
 </div>
 
-<details>
-<summary>🔍 <b>Expand for Detailed Performance Analysis</b></summary>
-<br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayu-sha&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true"/>
@@ -145,7 +143,7 @@ graph TD
     A --> C[Stellar Evolution]
     A --> D[Dark Matter Studies]
     
-    E[🤖 AI/ML Projects] --> F[Retina Image Enhancement]
+    E[🤖 AI/ML Projects] --> F[Retina Image EnhancemSAS PlanetSAS Planetent]
     E --> G[Plant Disease Classification]
     E --> H[Cosmic Ray Analysis]
     
