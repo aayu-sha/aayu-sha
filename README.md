@@ -34,7 +34,7 @@
 
 ```bash
 aayusha@cosmic-research:~$ systemctl status quantum-terminal
-● quantum-terminal.service - Quantum Research Terminal v2.0.25
+● astrophysics-terminal.service - Astrophysics Research Terminal v2.0.25
    Loaded: loaded (/etc/systemd/system/quantum-terminal.service; enabled)
    Active: active (running) since 2004-07-23 11:45:00 IST; 20y 5m ago
    Main PID: 2023 (cosmic-researcher)
