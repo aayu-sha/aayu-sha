@@ -75,7 +75,7 @@ class MyJourney:
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/nolan/64/astronomy.png" alt="Astrophysics"/>
+        <img src="https://img.icons8.com/nolan/64/physics.png" alt="Astrophysics"/>
         <br><b>🔭 Astrophysics</b>
         <br>Learning about stellar evolution, black holes, and dark matter interactions
       </td>
@@ -101,7 +101,6 @@ class MyJourney:
 
 **Languages & Frameworks I'm comfortable with:**
 - **Python** - My go-to for research and ML projects
-- **JavaScript/React** - For web applications
 - **TensorFlow/PyTorch** - For deep learning experiments
 - **Scientific Python** - NumPy, SciPy, Matplotlib, AstroPy
 
